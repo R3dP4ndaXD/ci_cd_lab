@@ -1,5 +1,5 @@
 # CI/CD workshop repository
-# ex 1
+
 ## Prerequisites
 
 ### Install Argo CD in k8s
